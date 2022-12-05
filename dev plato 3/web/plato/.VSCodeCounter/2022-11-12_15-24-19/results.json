@@ -1,0 +1,392 @@
+{
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/helpers/classNames.js": {
+    "language": "JavaScript",
+    "code": 4,
+    "comment": 0,
+    "blank": 2
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/routes/masterRoute.jsx": {
+    "language": "JavaScript React",
+    "code": 69,
+    "comment": 2,
+    "blank": 10
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/store/authentication.jsx": {
+    "language": "JavaScript React",
+    "code": 9,
+    "comment": 1,
+    "blank": 3
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/routes/unauthed.jsx": {
+    "language": "JavaScript React",
+    "code": 23,
+    "comment": 1,
+    "blank": 3
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/store/browserSetting.jsx": {
+    "language": "JavaScript React",
+    "code": 33,
+    "comment": 4,
+    "blank": 9
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/routes/privateRoutes.jsx": {
+    "language": "JavaScript React",
+    "code": 13,
+    "comment": 0,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/routes/mobile.jsx": {
+    "language": "JavaScript React",
+    "code": 19,
+    "comment": 4,
+    "blank": 4
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/pages/Home.jsx": {
+    "language": "JavaScript React",
+    "code": 86,
+    "comment": 0,
+    "blank": 23
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/pages/setting/Home.jsx": {
+    "language": "JavaScript React",
+    "code": 389,
+    "comment": 15,
+    "blank": 16
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/pages/finance/Home.jsx": {
+    "language": "JavaScript React",
+    "code": 16,
+    "comment": 0,
+    "blank": 2
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/pages/marketplace/Home.jsx": {
+    "language": "JavaScript React",
+    "code": 18,
+    "comment": 0,
+    "blank": 2
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/pages/marketplace/Detail.jsx": {
+    "language": "JavaScript React",
+    "code": 320,
+    "comment": 4,
+    "blank": 25
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/pages/calendar/CalendarWeek.jsx": {
+    "language": "JavaScript React",
+    "code": 8,
+    "comment": 0,
+    "blank": 2
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/pages/calendar/CalendarDay.jsx": {
+    "language": "JavaScript React",
+    "code": 8,
+    "comment": 0,
+    "blank": 2
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/pages/calendar/Calendar.jsx": {
+    "language": "JavaScript React",
+    "code": 8,
+    "comment": 0,
+    "blank": 2
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/pages/course/Detail.jsx": {
+    "language": "JavaScript React",
+    "code": 218,
+    "comment": 5,
+    "blank": 7
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/pages/course/Home.jsx": {
+    "language": "JavaScript React",
+    "code": 13,
+    "comment": 0,
+    "blank": 3
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/pages/unauthed/ForgetEmail.jsx": {
+    "language": "JavaScript React",
+    "code": 9,
+    "comment": 0,
+    "blank": 1
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/pages/unauthed/LandingPage.jsx": {
+    "language": "JavaScript React",
+    "code": 9,
+    "comment": 0,
+    "blank": 1
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/pages/unauthed/SignUpVerification.jsx": {
+    "language": "JavaScript React",
+    "code": 39,
+    "comment": 0,
+    "blank": 3
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/pages/unauthed/CourseView.jsx": {
+    "language": "JavaScript React",
+    "code": 9,
+    "comment": 0,
+    "blank": 1
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/pages/unauthed/SignUp.jsx": {
+    "language": "JavaScript React",
+    "code": 118,
+    "comment": 0,
+    "blank": 7
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/pages/unauthed/SignIn.jsx": {
+    "language": "JavaScript React",
+    "code": 102,
+    "comment": 0,
+    "blank": 7
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/pages/misc/NotFound.jsx": {
+    "language": "JavaScript React",
+    "code": 52,
+    "comment": 0,
+    "blank": 1
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/pages/unauthed/ForgetPassword.jsx": {
+    "language": "JavaScript React",
+    "code": 71,
+    "comment": 0,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/pages/misc/MobileBan.jsx": {
+    "language": "JavaScript React",
+    "code": 9,
+    "comment": 0,
+    "blank": 1
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/assets/react.svg": {
+    "language": "XML",
+    "code": 1,
+    "comment": 0,
+    "blank": 0
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/pages/unauthed/SignUpSuccess.jsx": {
+    "language": "JavaScript React",
+    "code": 36,
+    "comment": 0,
+    "blank": 2
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/assets/fonts/cambon/stylesheet.css": {
+    "language": "CSS",
+    "code": 163,
+    "comment": 0,
+    "blank": 16
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/api/readme.md": {
+    "language": "Markdown",
+    "code": 2,
+    "comment": 0,
+    "blank": 2
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/assets/fonts/plusJakarta/webfonts/stylesheet.css": {
+    "language": "CSS",
+    "code": 126,
+    "comment": 2,
+    "blank": 16
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/assets/cursor.svg": {
+    "language": "XML",
+    "code": 1,
+    "comment": 0,
+    "blank": 0
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/components/sectionHeading/sectionHeadingFullWidth.jsx": {
+    "language": "JavaScript React",
+    "code": 86,
+    "comment": 0,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/App.jsx": {
+    "language": "JavaScript React",
+    "code": 5,
+    "comment": 0,
+    "blank": 3
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/main.jsx": {
+    "language": "JavaScript React",
+    "code": 19,
+    "comment": 0,
+    "blank": 3
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/components/sectionHeading/sectionHeadingTab.jsx": {
+    "language": "JavaScript React",
+    "code": 67,
+    "comment": 0,
+    "blank": 3
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/components/stats/oneLineStats.jsx": {
+    "language": "JavaScript React",
+    "code": 77,
+    "comment": 0,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/components/classList/gridClassList.jsx": {
+    "language": "JavaScript React",
+    "code": 51,
+    "comment": 0,
+    "blank": 3
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/components/announcement/verticalAnnouncementList.jsx": {
+    "language": "JavaScript React",
+    "code": 40,
+    "comment": 15,
+    "blank": 2
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/components/modal/searchModal.jsx": {
+    "language": "JavaScript React",
+    "code": 91,
+    "comment": 1,
+    "blank": 11
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/components/finance/tabs.jsx": {
+    "language": "JavaScript React",
+    "code": 57,
+    "comment": 1,
+    "blank": 3
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/components/modal/searchModal2.jsx": {
+    "language": "JavaScript React",
+    "code": 165,
+    "comment": 17,
+    "blank": 9
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/components/filesList/gridFilesList.jsx": {
+    "language": "JavaScript React",
+    "code": 34,
+    "comment": 15,
+    "blank": 2
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/components/news/verticalNewsList.jsx": {
+    "language": "JavaScript React",
+    "code": 39,
+    "comment": 15,
+    "blank": 2
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/components/finance/table.jsx": {
+    "language": "JavaScript React",
+    "code": 96,
+    "comment": 0,
+    "blank": 2
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/components/steps/lineHorizontalSteps.jsx": {
+    "language": "JavaScript React",
+    "code": 47,
+    "comment": 0,
+    "blank": 2
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/components/forum/verticalForumList.jsx": {
+    "language": "JavaScript React",
+    "code": 51,
+    "comment": 15,
+    "blank": 2
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/components/finance/detail.jsx": {
+    "language": "JavaScript React",
+    "code": 127,
+    "comment": 0,
+    "blank": 7
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/components/marketplace/verticalMarketplaceList.jsx": {
+    "language": "JavaScript React",
+    "code": 134,
+    "comment": 0,
+    "blank": 3
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/components/marketplace/categoryLeftBar.jsx": {
+    "language": "JavaScript React",
+    "code": 108,
+    "comment": 1,
+    "blank": 4
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/components/marketplace/itemListCard.jsx": {
+    "language": "JavaScript React",
+    "code": 48,
+    "comment": 0,
+    "blank": 2
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/components/layout/sidebar.jsx": {
+    "language": "JavaScript React",
+    "code": 149,
+    "comment": 13,
+    "blank": 8
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/components/layout/container.jsx": {
+    "language": "JavaScript React",
+    "code": 71,
+    "comment": 2,
+    "blank": 9
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/components/marketplace/header.jsx": {
+    "language": "JavaScript React",
+    "code": 114,
+    "comment": 7,
+    "blank": 6
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/components/course/courseList.jsx": {
+    "language": "JavaScript React",
+    "code": 46,
+    "comment": 0,
+    "blank": 3
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/components/rating/verticalRatingList.jsx": {
+    "language": "JavaScript React",
+    "code": 76,
+    "comment": 0,
+    "blank": 3
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/components/layout/header.jsx": {
+    "language": "JavaScript React",
+    "code": 97,
+    "comment": 1,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/components/chat/verticalChatMedium.jsx": {
+    "language": "JavaScript React",
+    "code": 98,
+    "comment": 14,
+    "blank": 3
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/components/calendar/fullCalendarMonth.jsx": {
+    "language": "JavaScript React",
+    "code": 222,
+    "comment": 0,
+    "blank": 3
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/components/calendar/fullCalendarWeek.jsx": {
+    "language": "JavaScript React",
+    "code": 346,
+    "comment": 4,
+    "blank": 7
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/components/calendar/mediumCalendarEventList.jsx": {
+    "language": "JavaScript React",
+    "code": 97,
+    "comment": 0,
+    "blank": 4
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/components/calendar/mediumCalendar.jsx": {
+    "language": "JavaScript React",
+    "code": 112,
+    "comment": 0,
+    "blank": 3
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/index.css": {
+    "language": "CSS",
+    "code": 6,
+    "comment": 0,
+    "blank": 1
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/components/calendar/fullCalendarDay.jsx": {
+    "language": "JavaScript React",
+    "code": 371,
+    "comment": 5,
+    "blank": 7
+  },
+  "file:///Users/mifzan/Documents/code/plato/web3/plato/src/components/calendar/calendarHeader.jsx": {
+    "language": "JavaScript React",
+    "code": 213,
+    "comment": 0,
+    "blank": 6
+  }
+}

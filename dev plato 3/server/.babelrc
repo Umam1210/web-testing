@@ -1,0 +1,23 @@
+{
+  "presets": [
+    "@babel/preset-env"
+  ],
+  "plugins": [
+    [
+      "module-resolver",
+      {
+        "alias": {
+          "routes": "./src/routes",
+          "helpers": "./src/helpers",
+          "middlewares": "./src/middlewares",
+          "services": "./src/services",
+          "controllers": "./src/controllers",
+          "models": "./src/models",
+          "seed": "./src/seed",
+          "docs": "./src/docs",
+          "server": "./src/server.js"
+        }
+      }
+    ]
+  ]
+}

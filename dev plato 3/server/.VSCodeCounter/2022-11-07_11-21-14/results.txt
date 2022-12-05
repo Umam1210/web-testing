@@ -1,0 +1,127 @@
+Date : 2022-11-07 11:21:14
+Directory : /Users/mifzan/Documents/code/plato/server2/src
+Total : 76 files,  2488 codes, 162 comments, 407 blanks, all 3057 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JavaScript |         75 |      2,437 |        162 |        389 |      2,988 |
+| Markdown   |          1 |         51 |          0 |         18 |         69 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                         | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                            |         76 |      2,488 |        162 |        407 |      3,057 |
+| controllers                                                                                  |          2 |         76 |          1 |         16 |         93 |
+| controllers/education                                                                        |          1 |         32 |          1 |          9 |         42 |
+| controllers/education/university                                                             |          1 |         32 |          1 |          9 |         42 |
+| controllers/user                                                                             |          1 |         44 |          0 |          7 |         51 |
+| controllers/user/superAdmin                                                                  |          1 |         44 |          0 |          7 |         51 |
+| helpers                                                                                      |          7 |        321 |          8 |         41 |        370 |
+| middlewares                                                                                  |          2 |         35 |          1 |          5 |         41 |
+| models                                                                                       |         32 |      1,570 |         21 |        160 |      1,751 |
+| models/chat                                                                                  |          2 |         98 |          0 |         10 |        108 |
+| models/education                                                                             |          9 |        428 |          8 |         42 |        478 |
+| models/file                                                                                  |          2 |        128 |          2 |         10 |        140 |
+| models/finance                                                                               |          3 |        169 |          5 |         16 |        190 |
+| models/forum                                                                                 |          3 |        175 |          0 |         15 |        190 |
+| models/market                                                                                |          1 |         57 |          0 |          5 |         62 |
+| models/news                                                                                  |          4 |        227 |          6 |         22 |        255 |
+| models/user                                                                                  |          8 |        288 |          0 |         40 |        328 |
+| routes                                                                                       |         31 |        393 |        131 |        156 |        680 |
+| routes/chat                                                                                  |          2 |         20 |          8 |         10 |         38 |
+| routes/education                                                                             |          8 |         89 |         31 |         40 |        160 |
+| routes/file                                                                                  |          2 |         20 |          8 |         10 |         38 |
+| routes/finance                                                                               |          3 |         30 |         12 |         15 |         57 |
+| routes/forum                                                                                 |          3 |         30 |         12 |         15 |         57 |
+| routes/market                                                                                |          1 |         10 |          4 |          5 |         19 |
+| routes/news                                                                                  |          4 |         40 |         16 |         20 |         76 |
+| routes/user                                                                                  |          7 |         92 |         23 |         35 |        150 |
+| seed                                                                                         |          1 |         51 |          0 |         18 |         69 |
++----------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                     | language   | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| /Users/mifzan/Documents/code/plato/server2/src/controllers/education/university/createOne.js | JavaScript |         32 |          1 |          9 |         42 |
+| /Users/mifzan/Documents/code/plato/server2/src/controllers/user/superAdmin/signIn.js         | JavaScript |         44 |          0 |          7 |         51 |
+| /Users/mifzan/Documents/code/plato/server2/src/helpers/capitalizeName.js                     | JavaScript |          7 |          1 |          2 |         10 |
+| /Users/mifzan/Documents/code/plato/server2/src/helpers/commonControllers.js                  | JavaScript |        131 |          1 |         20 |        152 |
+| /Users/mifzan/Documents/code/plato/server2/src/helpers/databaseTypes.js                      | JavaScript |        144 |          0 |          8 |        152 |
+| /Users/mifzan/Documents/code/plato/server2/src/helpers/mongodbErrorCodes.js                  | JavaScript |          7 |          2 |          2 |         11 |
+| /Users/mifzan/Documents/code/plato/server2/src/helpers/passwordHash.js                       | JavaScript |          7 |          0 |          2 |          9 |
+| /Users/mifzan/Documents/code/plato/server2/src/helpers/responseCodes.js                      | JavaScript |         10 |          4 |          3 |         17 |
+| /Users/mifzan/Documents/code/plato/server2/src/helpers/winstonLogger.js                      | JavaScript |         15 |          0 |          4 |         19 |
+| /Users/mifzan/Documents/code/plato/server2/src/middlewares/authentication.js                 | JavaScript |         19 |          0 |          4 |         23 |
+| /Users/mifzan/Documents/code/plato/server2/src/middlewares/rolePermission.js                 | JavaScript |         16 |          1 |          1 |         18 |
+| /Users/mifzan/Documents/code/plato/server2/src/models/chat/chat.js                           | JavaScript |         60 |          0 |          5 |         65 |
+| /Users/mifzan/Documents/code/plato/server2/src/models/chat/session.js                        | JavaScript |         38 |          0 |          5 |         43 |
+| /Users/mifzan/Documents/code/plato/server2/src/models/education/classRoom.js                 | JavaScript |         49 |          0 |          5 |         54 |
+| /Users/mifzan/Documents/code/plato/server2/src/models/education/faculty.js                   | JavaScript |         43 |          0 |          5 |         48 |
+| /Users/mifzan/Documents/code/plato/server2/src/models/education/major.js                     | JavaScript |         44 |          0 |          5 |         49 |
+| /Users/mifzan/Documents/code/plato/server2/src/models/education/schedule.js                  | JavaScript |         58 |          5 |          6 |         69 |
+| /Users/mifzan/Documents/code/plato/server2/src/models/education/scheduleAnswer.js            | JavaScript |         64 |          0 |          5 |         69 |
+| /Users/mifzan/Documents/code/plato/server2/src/models/education/session.js                   | JavaScript |         55 |          0 |          5 |         60 |
+| /Users/mifzan/Documents/code/plato/server2/src/models/education/studyCard.js                 | JavaScript |          0 |          1 |          1 |          2 |
+| /Users/mifzan/Documents/code/plato/server2/src/models/education/subject.js                   | JavaScript |         53 |          2 |          5 |         60 |
+| /Users/mifzan/Documents/code/plato/server2/src/models/education/university.js                | JavaScript |         62 |          0 |          5 |         67 |
+| /Users/mifzan/Documents/code/plato/server2/src/models/file/file.js                           | JavaScript |         54 |          0 |          5 |         59 |
+| /Users/mifzan/Documents/code/plato/server2/src/models/file/folder.js                         | JavaScript |         74 |          2 |          5 |         81 |
+| /Users/mifzan/Documents/code/plato/server2/src/models/finance/cart.js                        | JavaScript |         47 |          1 |          5 |         53 |
+| /Users/mifzan/Documents/code/plato/server2/src/models/finance/order.js                       | JavaScript |         75 |          2 |          5 |         82 |
+| /Users/mifzan/Documents/code/plato/server2/src/models/finance/studyCard.js                   | JavaScript |         47 |          2 |          6 |         55 |
+| /Users/mifzan/Documents/code/plato/server2/src/models/forum/comment.js                       | JavaScript |         53 |          0 |          5 |         58 |
+| /Users/mifzan/Documents/code/plato/server2/src/models/forum/community.js                     | JavaScript |         61 |          0 |          5 |         66 |
+| /Users/mifzan/Documents/code/plato/server2/src/models/forum/post.js                          | JavaScript |         61 |          0 |          5 |         66 |
+| /Users/mifzan/Documents/code/plato/server2/src/models/market/item.js                         | JavaScript |         57 |          0 |          5 |         62 |
+| /Users/mifzan/Documents/code/plato/server2/src/models/news/comment.js                        | JavaScript |         62 |          0 |          5 |         67 |
+| /Users/mifzan/Documents/code/plato/server2/src/models/news/externalNews.js                   | JavaScript |         61 |          3 |          6 |         70 |
+| /Users/mifzan/Documents/code/plato/server2/src/models/news/internalNews.js                   | JavaScript |         57 |          3 |          6 |         66 |
+| /Users/mifzan/Documents/code/plato/server2/src/models/news/publisher.js                      | JavaScript |         47 |          0 |          5 |         52 |
+| /Users/mifzan/Documents/code/plato/server2/src/models/user/admin.js                          | JavaScript |         34 |          0 |          5 |         39 |
+| /Users/mifzan/Documents/code/plato/server2/src/models/user/enterprise.js                     | JavaScript |         35 |          0 |          5 |         40 |
+| /Users/mifzan/Documents/code/plato/server2/src/models/user/management.js                     | JavaScript |         34 |          0 |          5 |         39 |
+| /Users/mifzan/Documents/code/plato/server2/src/models/user/parent.js                         | JavaScript |         34 |          0 |          5 |         39 |
+| /Users/mifzan/Documents/code/plato/server2/src/models/user/student.js                        | JavaScript |         42 |          0 |          5 |         47 |
+| /Users/mifzan/Documents/code/plato/server2/src/models/user/superAdmin.js                     | JavaScript |         34 |          0 |          5 |         39 |
+| /Users/mifzan/Documents/code/plato/server2/src/models/user/teacher.js                        | JavaScript |         34 |          0 |          5 |         39 |
+| /Users/mifzan/Documents/code/plato/server2/src/models/user/userGroup.js                      | JavaScript |         41 |          0 |          5 |         46 |
+| /Users/mifzan/Documents/code/plato/server2/src/routes/chat/chat.js                           | JavaScript |         10 |          4 |          5 |         19 |
+| /Users/mifzan/Documents/code/plato/server2/src/routes/chat/session.js                        | JavaScript |         10 |          4 |          5 |         19 |
+| /Users/mifzan/Documents/code/plato/server2/src/routes/education/classRoom.js                 | JavaScript |         10 |          4 |          5 |         19 |
+| /Users/mifzan/Documents/code/plato/server2/src/routes/education/faculty.js                   | JavaScript |         10 |          4 |          5 |         19 |
+| /Users/mifzan/Documents/code/plato/server2/src/routes/education/major.js                     | JavaScript |         10 |          4 |          5 |         19 |
+| /Users/mifzan/Documents/code/plato/server2/src/routes/education/schedule.js                  | JavaScript |         10 |          4 |          5 |         19 |
+| /Users/mifzan/Documents/code/plato/server2/src/routes/education/scheduleAnswer.js            | JavaScript |         17 |          4 |          5 |         26 |
+| /Users/mifzan/Documents/code/plato/server2/src/routes/education/session.js                   | JavaScript |         10 |          4 |          5 |         19 |
+| /Users/mifzan/Documents/code/plato/server2/src/routes/education/subject.js                   | JavaScript |         10 |          4 |          5 |         19 |
+| /Users/mifzan/Documents/code/plato/server2/src/routes/education/university.js                | JavaScript |         12 |          3 |          5 |         20 |
+| /Users/mifzan/Documents/code/plato/server2/src/routes/file/file.js                           | JavaScript |         10 |          4 |          5 |         19 |
+| /Users/mifzan/Documents/code/plato/server2/src/routes/file/folder.js                         | JavaScript |         10 |          4 |          5 |         19 |
+| /Users/mifzan/Documents/code/plato/server2/src/routes/finance/cart.js                        | JavaScript |         10 |          4 |          5 |         19 |
+| /Users/mifzan/Documents/code/plato/server2/src/routes/finance/order.js                       | JavaScript |         10 |          4 |          5 |         19 |
+| /Users/mifzan/Documents/code/plato/server2/src/routes/finance/studyCard.js                   | JavaScript |         10 |          4 |          5 |         19 |
+| /Users/mifzan/Documents/code/plato/server2/src/routes/forum/comment.js                       | JavaScript |         10 |          4 |          5 |         19 |
+| /Users/mifzan/Documents/code/plato/server2/src/routes/forum/community.js                     | JavaScript |         10 |          4 |          5 |         19 |
+| /Users/mifzan/Documents/code/plato/server2/src/routes/forum/post.js                          | JavaScript |         10 |          4 |          5 |         19 |
+| /Users/mifzan/Documents/code/plato/server2/src/routes/index.js                               | JavaScript |         62 |         17 |          6 |         85 |
+| /Users/mifzan/Documents/code/plato/server2/src/routes/market/item.js                         | JavaScript |         10 |          4 |          5 |         19 |
+| /Users/mifzan/Documents/code/plato/server2/src/routes/news/comment.js                        | JavaScript |         10 |          4 |          5 |         19 |
+| /Users/mifzan/Documents/code/plato/server2/src/routes/news/externalNews.js                   | JavaScript |         10 |          4 |          5 |         19 |
+| /Users/mifzan/Documents/code/plato/server2/src/routes/news/internalNews.js                   | JavaScript |         10 |          4 |          5 |         19 |
+| /Users/mifzan/Documents/code/plato/server2/src/routes/news/publisher.js                      | JavaScript |         10 |          4 |          5 |         19 |
+| /Users/mifzan/Documents/code/plato/server2/src/routes/user/admin.js                          | JavaScript |         11 |          3 |          5 |         19 |
+| /Users/mifzan/Documents/code/plato/server2/src/routes/user/management.js                     | JavaScript |         19 |          3 |          5 |         27 |
+| /Users/mifzan/Documents/code/plato/server2/src/routes/user/parent.js                         | JavaScript |         11 |          3 |          5 |         19 |
+| /Users/mifzan/Documents/code/plato/server2/src/routes/user/student.js                        | JavaScript |         11 |          3 |          5 |         19 |
+| /Users/mifzan/Documents/code/plato/server2/src/routes/user/superAdmin.js                     | JavaScript |         19 |          4 |          5 |         28 |
+| /Users/mifzan/Documents/code/plato/server2/src/routes/user/teacher.js                        | JavaScript |         11 |          3 |          5 |         19 |
+| /Users/mifzan/Documents/code/plato/server2/src/routes/user/userGroup.js                      | JavaScript |         10 |          4 |          5 |         19 |
+| /Users/mifzan/Documents/code/plato/server2/src/seed/readme.md                                | Markdown   |         51 |          0 |         18 |         69 |
+| /Users/mifzan/Documents/code/plato/server2/src/server.js                                     | JavaScript |         42 |          0 |         11 |         53 |
+| Total                                                                                        |            |      2,488 |        162 |        407 |      3,057 |
++----------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+

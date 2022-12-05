@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  cursor: url('./assets/cursor.svg') 6 2, default;
+  /* background: #d7dfe2; */
+}
+
+.plato-meet-custom-style {
+
+}
+
+.watermark {
+  display: none !important;
+}
+
+::-webkit-scrollbar {
+  width: 0;  /* Remove scrollbar space */
+  background: transparent;  /* Optional: just make scrollbar invisible */
+}
+/* Tabs create forum start */
+.tabs {
+  @apply relative outline-0 text-gray-500 text-sm font-semibold p-2.5 text-center w-6/12 bg-white cursor-pointer border-r border-b border-solid border-gray-200 box-content
+}
+
+.active-tabs  {
+  @apply bg-blue-50 text-[#0079d3]
+
+}
+.active-tabs::before {
+  @apply block content-[""] absolute top-[97%] left-2/4 -translate-x-2/4 w-full h-0.5 bg-[#0079d3]
+}
+button {
+  @apply border-none
+}
+.content {
+  @apply hidden bg-white p-5 w-full h-full
+}
+.active-content {
+  @apply block
+}
+/* Tabs create forum end */

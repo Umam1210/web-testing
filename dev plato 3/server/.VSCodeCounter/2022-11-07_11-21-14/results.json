@@ -1,0 +1,458 @@
+{
+  "file:///Users/mifzan/Documents/code/plato/server2/src/helpers/winstonLogger.js": {
+    "language": "JavaScript",
+    "code": 15,
+    "comment": 0,
+    "blank": 4
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/helpers/responseCodes.js": {
+    "language": "JavaScript",
+    "code": 10,
+    "comment": 4,
+    "blank": 3
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/helpers/commonControllers.js": {
+    "language": "JavaScript",
+    "code": 131,
+    "comment": 1,
+    "blank": 20
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/helpers/mongodbErrorCodes.js": {
+    "language": "JavaScript",
+    "code": 7,
+    "comment": 2,
+    "blank": 2
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/helpers/databaseTypes.js": {
+    "language": "JavaScript",
+    "code": 144,
+    "comment": 0,
+    "blank": 8
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/helpers/passwordHash.js": {
+    "language": "JavaScript",
+    "code": 7,
+    "comment": 0,
+    "blank": 2
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/routes/market/item.js": {
+    "language": "JavaScript",
+    "code": 10,
+    "comment": 4,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/helpers/capitalizeName.js": {
+    "language": "JavaScript",
+    "code": 7,
+    "comment": 1,
+    "blank": 2
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/routes/finance/order.js": {
+    "language": "JavaScript",
+    "code": 10,
+    "comment": 4,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/routes/finance/studyCard.js": {
+    "language": "JavaScript",
+    "code": 10,
+    "comment": 4,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/routes/finance/cart.js": {
+    "language": "JavaScript",
+    "code": 10,
+    "comment": 4,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/routes/news/internalNews.js": {
+    "language": "JavaScript",
+    "code": 10,
+    "comment": 4,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/routes/news/externalNews.js": {
+    "language": "JavaScript",
+    "code": 10,
+    "comment": 4,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/routes/news/publisher.js": {
+    "language": "JavaScript",
+    "code": 10,
+    "comment": 4,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/routes/news/comment.js": {
+    "language": "JavaScript",
+    "code": 10,
+    "comment": 4,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/routes/forum/community.js": {
+    "language": "JavaScript",
+    "code": 10,
+    "comment": 4,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/routes/forum/post.js": {
+    "language": "JavaScript",
+    "code": 10,
+    "comment": 4,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/routes/forum/comment.js": {
+    "language": "JavaScript",
+    "code": 10,
+    "comment": 4,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/routes/user/admin.js": {
+    "language": "JavaScript",
+    "code": 11,
+    "comment": 3,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/routes/user/management.js": {
+    "language": "JavaScript",
+    "code": 19,
+    "comment": 3,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/routes/user/teacher.js": {
+    "language": "JavaScript",
+    "code": 11,
+    "comment": 3,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/routes/user/student.js": {
+    "language": "JavaScript",
+    "code": 11,
+    "comment": 3,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/routes/user/parent.js": {
+    "language": "JavaScript",
+    "code": 11,
+    "comment": 3,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/routes/user/userGroup.js": {
+    "language": "JavaScript",
+    "code": 10,
+    "comment": 4,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/routes/user/superAdmin.js": {
+    "language": "JavaScript",
+    "code": 19,
+    "comment": 4,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/routes/index.js": {
+    "language": "JavaScript",
+    "code": 62,
+    "comment": 17,
+    "blank": 6
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/routes/education/major.js": {
+    "language": "JavaScript",
+    "code": 10,
+    "comment": 4,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/routes/education/faculty.js": {
+    "language": "JavaScript",
+    "code": 10,
+    "comment": 4,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/routes/education/schedule.js": {
+    "language": "JavaScript",
+    "code": 10,
+    "comment": 4,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/routes/education/session.js": {
+    "language": "JavaScript",
+    "code": 10,
+    "comment": 4,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/routes/education/university.js": {
+    "language": "JavaScript",
+    "code": 12,
+    "comment": 3,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/routes/education/scheduleAnswer.js": {
+    "language": "JavaScript",
+    "code": 17,
+    "comment": 4,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/routes/education/subject.js": {
+    "language": "JavaScript",
+    "code": 10,
+    "comment": 4,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/routes/education/classRoom.js": {
+    "language": "JavaScript",
+    "code": 10,
+    "comment": 4,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/routes/file/file.js": {
+    "language": "JavaScript",
+    "code": 10,
+    "comment": 4,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/routes/file/folder.js": {
+    "language": "JavaScript",
+    "code": 10,
+    "comment": 4,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/routes/chat/chat.js": {
+    "language": "JavaScript",
+    "code": 10,
+    "comment": 4,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/controllers/user/superAdmin/signIn.js": {
+    "language": "JavaScript",
+    "code": 44,
+    "comment": 0,
+    "blank": 7
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/controllers/education/university/createOne.js": {
+    "language": "JavaScript",
+    "code": 32,
+    "comment": 1,
+    "blank": 9
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/routes/chat/session.js": {
+    "language": "JavaScript",
+    "code": 10,
+    "comment": 4,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/models/market/item.js": {
+    "language": "JavaScript",
+    "code": 57,
+    "comment": 0,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/models/finance/studyCard.js": {
+    "language": "JavaScript",
+    "code": 47,
+    "comment": 2,
+    "blank": 6
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/models/finance/cart.js": {
+    "language": "JavaScript",
+    "code": 47,
+    "comment": 1,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/models/news/externalNews.js": {
+    "language": "JavaScript",
+    "code": 61,
+    "comment": 3,
+    "blank": 6
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/models/finance/order.js": {
+    "language": "JavaScript",
+    "code": 75,
+    "comment": 2,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/models/news/internalNews.js": {
+    "language": "JavaScript",
+    "code": 57,
+    "comment": 3,
+    "blank": 6
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/models/forum/community.js": {
+    "language": "JavaScript",
+    "code": 61,
+    "comment": 0,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/models/news/publisher.js": {
+    "language": "JavaScript",
+    "code": 47,
+    "comment": 0,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/models/forum/comment.js": {
+    "language": "JavaScript",
+    "code": 53,
+    "comment": 0,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/models/forum/post.js": {
+    "language": "JavaScript",
+    "code": 61,
+    "comment": 0,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/models/news/comment.js": {
+    "language": "JavaScript",
+    "code": 62,
+    "comment": 0,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/models/user/management.js": {
+    "language": "JavaScript",
+    "code": 34,
+    "comment": 0,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/models/user/student.js": {
+    "language": "JavaScript",
+    "code": 42,
+    "comment": 0,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/models/user/teacher.js": {
+    "language": "JavaScript",
+    "code": 34,
+    "comment": 0,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/models/user/admin.js": {
+    "language": "JavaScript",
+    "code": 34,
+    "comment": 0,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/models/user/enterprise.js": {
+    "language": "JavaScript",
+    "code": 35,
+    "comment": 0,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/models/user/userGroup.js": {
+    "language": "JavaScript",
+    "code": 41,
+    "comment": 0,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/models/user/parent.js": {
+    "language": "JavaScript",
+    "code": 34,
+    "comment": 0,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/models/user/superAdmin.js": {
+    "language": "JavaScript",
+    "code": 34,
+    "comment": 0,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/models/education/faculty.js": {
+    "language": "JavaScript",
+    "code": 43,
+    "comment": 0,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/models/education/schedule.js": {
+    "language": "JavaScript",
+    "code": 58,
+    "comment": 5,
+    "blank": 6
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/models/education/major.js": {
+    "language": "JavaScript",
+    "code": 44,
+    "comment": 0,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/models/education/session.js": {
+    "language": "JavaScript",
+    "code": 55,
+    "comment": 0,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/models/education/studyCard.js": {
+    "language": "JavaScript",
+    "code": 0,
+    "comment": 1,
+    "blank": 1
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/models/education/university.js": {
+    "language": "JavaScript",
+    "code": 62,
+    "comment": 0,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/models/education/scheduleAnswer.js": {
+    "language": "JavaScript",
+    "code": 64,
+    "comment": 0,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/models/education/subject.js": {
+    "language": "JavaScript",
+    "code": 53,
+    "comment": 2,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/models/file/file.js": {
+    "language": "JavaScript",
+    "code": 54,
+    "comment": 0,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/models/education/classRoom.js": {
+    "language": "JavaScript",
+    "code": 49,
+    "comment": 0,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/models/file/folder.js": {
+    "language": "JavaScript",
+    "code": 74,
+    "comment": 2,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/models/chat/chat.js": {
+    "language": "JavaScript",
+    "code": 60,
+    "comment": 0,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/models/chat/session.js": {
+    "language": "JavaScript",
+    "code": 38,
+    "comment": 0,
+    "blank": 5
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/middlewares/authentication.js": {
+    "language": "JavaScript",
+    "code": 19,
+    "comment": 0,
+    "blank": 4
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/server.js": {
+    "language": "JavaScript",
+    "code": 42,
+    "comment": 0,
+    "blank": 11
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/seed/readme.md": {
+    "language": "Markdown",
+    "code": 51,
+    "comment": 0,
+    "blank": 18
+  },
+  "file:///Users/mifzan/Documents/code/plato/server2/src/middlewares/rolePermission.js": {
+    "language": "JavaScript",
+    "code": 16,
+    "comment": 1,
+    "blank": 1
+  }
+}

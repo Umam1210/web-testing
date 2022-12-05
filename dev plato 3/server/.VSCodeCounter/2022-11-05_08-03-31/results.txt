@@ -1,0 +1,78 @@
+Date : 2022-11-05 08:03:31
+Directory : /Users/mifzan/Documents/code/plato/server2/src
+Total : 40 files,  1308 codes, 88 comments, 199 blanks, all 1595 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JavaScript |         40 |      1,308 |         88 |        199 |      1,595 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                         | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                            |         40 |      1,308 |         88 |        199 |      1,595 |
+| helpers                                                                      |          4 |        122 |          4 |         19 |        145 |
+| middlewares                                                                  |          2 |         35 |          1 |          5 |         41 |
+| models                                                                       |         16 |        921 |          6 |         82 |      1,009 |
+| models/chat                                                                  |          2 |        104 |          0 |         10 |        114 |
+| models/file                                                                  |          2 |        126 |          0 |         10 |        136 |
+| models/forum                                                                 |          3 |        184 |          0 |         15 |        199 |
+| models/news                                                                  |          4 |        236 |          6 |         22 |        264 |
+| models/user                                                                  |          5 |        271 |          0 |         25 |        296 |
+| routes                                                                       |         17 |        200 |         77 |         86 |        363 |
+| routes/chat                                                                  |          2 |         20 |          8 |         10 |         38 |
+| routes/file                                                                  |          2 |         20 |          8 |         10 |         38 |
+| routes/forum                                                                 |          3 |         30 |         12 |         15 |         57 |
+| routes/news                                                                  |          4 |         40 |         16 |         20 |         76 |
+| routes/user                                                                  |          5 |         50 |         20 |         25 |         95 |
++------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                     | language   | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| /Users/mifzan/Documents/code/plato/server2/src/helpers/capitalizeName.js     | JavaScript |          7 |          1 |          2 |         10 |
+| /Users/mifzan/Documents/code/plato/server2/src/helpers/commonControllers.js  | JavaScript |        101 |          1 |         13 |        115 |
+| /Users/mifzan/Documents/code/plato/server2/src/helpers/mongodbErrorCodes.js  | JavaScript |          7 |          2 |          2 |         11 |
+| /Users/mifzan/Documents/code/plato/server2/src/helpers/passwordHash.js       | JavaScript |          7 |          0 |          2 |          9 |
+| /Users/mifzan/Documents/code/plato/server2/src/middlewares/authentication.js | JavaScript |         19 |          0 |          4 |         23 |
+| /Users/mifzan/Documents/code/plato/server2/src/middlewares/rolePermission.js | JavaScript |         16 |          1 |          1 |         18 |
+| /Users/mifzan/Documents/code/plato/server2/src/models/chat/chat.js           | JavaScript |         63 |          0 |          5 |         68 |
+| /Users/mifzan/Documents/code/plato/server2/src/models/chat/session.js        | JavaScript |         41 |          0 |          5 |         46 |
+| /Users/mifzan/Documents/code/plato/server2/src/models/file/file.js           | JavaScript |         57 |          0 |          5 |         62 |
+| /Users/mifzan/Documents/code/plato/server2/src/models/file/folder.js         | JavaScript |         69 |          0 |          5 |         74 |
+| /Users/mifzan/Documents/code/plato/server2/src/models/forum/comment.js       | JavaScript |         56 |          0 |          5 |         61 |
+| /Users/mifzan/Documents/code/plato/server2/src/models/forum/community.js     | JavaScript |         64 |          0 |          5 |         69 |
+| /Users/mifzan/Documents/code/plato/server2/src/models/forum/post.js          | JavaScript |         64 |          0 |          5 |         69 |
+| /Users/mifzan/Documents/code/plato/server2/src/models/news/comment.js        | JavaScript |         65 |          0 |          5 |         70 |
+| /Users/mifzan/Documents/code/plato/server2/src/models/news/externalNews.js   | JavaScript |         64 |          3 |          6 |         73 |
+| /Users/mifzan/Documents/code/plato/server2/src/models/news/internalNews.js   | JavaScript |         60 |          3 |          6 |         69 |
+| /Users/mifzan/Documents/code/plato/server2/src/models/news/publisher.js      | JavaScript |         47 |          0 |          5 |         52 |
+| /Users/mifzan/Documents/code/plato/server2/src/models/user/admin.js          | JavaScript |         52 |          0 |          5 |         57 |
+| /Users/mifzan/Documents/code/plato/server2/src/models/user/management.js     | JavaScript |         52 |          0 |          5 |         57 |
+| /Users/mifzan/Documents/code/plato/server2/src/models/user/parent.js         | JavaScript |         52 |          0 |          5 |         57 |
+| /Users/mifzan/Documents/code/plato/server2/src/models/user/student.js        | JavaScript |         63 |          0 |          5 |         68 |
+| /Users/mifzan/Documents/code/plato/server2/src/models/user/teacher.js        | JavaScript |         52 |          0 |          5 |         57 |
+| /Users/mifzan/Documents/code/plato/server2/src/routes/chat/chat.js           | JavaScript |         10 |          4 |          5 |         19 |
+| /Users/mifzan/Documents/code/plato/server2/src/routes/chat/session.js        | JavaScript |         10 |          4 |          5 |         19 |
+| /Users/mifzan/Documents/code/plato/server2/src/routes/file/file.js           | JavaScript |         10 |          4 |          5 |         19 |
+| /Users/mifzan/Documents/code/plato/server2/src/routes/file/folder.js         | JavaScript |         10 |          4 |          5 |         19 |
+| /Users/mifzan/Documents/code/plato/server2/src/routes/forum/comment.js       | JavaScript |         10 |          4 |          5 |         19 |
+| /Users/mifzan/Documents/code/plato/server2/src/routes/forum/community.js     | JavaScript |         10 |          4 |          5 |         19 |
+| /Users/mifzan/Documents/code/plato/server2/src/routes/forum/post.js          | JavaScript |         10 |          4 |          5 |         19 |
+| /Users/mifzan/Documents/code/plato/server2/src/routes/index.js               | JavaScript |         40 |         13 |          6 |         59 |
+| /Users/mifzan/Documents/code/plato/server2/src/routes/news/comment.js        | JavaScript |         10 |          4 |          5 |         19 |
+| /Users/mifzan/Documents/code/plato/server2/src/routes/news/externalNews.js   | JavaScript |         10 |          4 |          5 |         19 |
+| /Users/mifzan/Documents/code/plato/server2/src/routes/news/internalNews.js   | JavaScript |         10 |          4 |          5 |         19 |
+| /Users/mifzan/Documents/code/plato/server2/src/routes/news/publisher.js      | JavaScript |         10 |          4 |          5 |         19 |
+| /Users/mifzan/Documents/code/plato/server2/src/routes/user/admin.js          | JavaScript |         10 |          4 |          5 |         19 |
+| /Users/mifzan/Documents/code/plato/server2/src/routes/user/management.js     | JavaScript |         10 |          4 |          5 |         19 |
+| /Users/mifzan/Documents/code/plato/server2/src/routes/user/parent.js         | JavaScript |         10 |          4 |          5 |         19 |
+| /Users/mifzan/Documents/code/plato/server2/src/routes/user/student.js        | JavaScript |         10 |          4 |          5 |         19 |
+| /Users/mifzan/Documents/code/plato/server2/src/routes/user/teacher.js        | JavaScript |         10 |          4 |          5 |         19 |
+| /Users/mifzan/Documents/code/plato/server2/src/server.js                     | JavaScript |         30 |          0 |          7 |         37 |
+| Total                                                                        |            |      1,308 |         88 |        199 |      1,595 |
++------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
